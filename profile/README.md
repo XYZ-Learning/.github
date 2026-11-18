@@ -10,6 +10,12 @@
 - Browse notes: [xyznotes.in/browse](https://xyznotes.in/browse)
 - Marketplace: [xyznotes.in/marketplace](https://xyznotes.in/marketplace)
 
+Popular notes:
+
+- [CTET notes PDF](https://xyznotes.in/exams/ctet): Paper I and Paper II pedagogy kits (Child Development & Pedagogy, Language, Maths & EVS, Maths & Science, Social Studies) with practice MCQs and practice papers
+- [Personal Finance for Everyone](https://xyznotes.in/notes/68211c0a-fc7d-4396-a965-4a63db28b462): budgeting, investments, tax saving and financial planning (36-page PDF)
+- [System Design Complete Notes – Beginner to Advanced](https://xyznotes.in/notes/96b989b3-878a-4799-80e7-5574614cc2d7): scalability, load balancing, databases, caching, distributed systems and interview prep (164-page PDF)
+
 ## XYZ Education and XYZ One
 
 [XYZ Education](https://xyzeducation.in) is our marketplace for classes, teachers, and classrooms.
